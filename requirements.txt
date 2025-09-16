@@ -1,0 +1,8 @@
+1.GUI developed with Tkinter.
+2.Database by SQLite (flight.db).
+3.Implement CRUD operations.
+4.Upload Project to GitHub.
+5.Export the App into exe.
+6.This project does not require additional libraries because Tkinter and SQLite are built into Python.
+
+
